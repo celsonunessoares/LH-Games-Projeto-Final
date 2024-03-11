@@ -1,0 +1,17 @@
+.example-spacer {
+  flex: 11auto;
+}
+
+span {
+  padding: 5px5px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+img {
+  height: 50px;
+  width: 50px;
+}
